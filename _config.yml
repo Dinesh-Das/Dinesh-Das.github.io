@@ -1,0 +1,112 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/pic.jpg
+
+# Personal info
+name: Dinesh Das
+title: Student
+email: dineshdas1016@gmail.com
+phone: +91-9284425491
+# website: Your website (eg. https://google.com)(optional)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: jekyllrb
+github_username:  Dinesh-Das
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: dinesh._.das
+linkedin_username: dineshdas1016
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Resume
+  icon: fa-adobe
+  url: https://drive.google.com/file/d/12nR7i2cFWVnjoL5xQ2JmSEe-CAhMMBpl/view?usp=sharing
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/pic.jpg
+about_content: | # this will include new lines to allow paragraphs
+  
+  Hi, my name is Dinesh Das. I am a student at Government College Of Engineering Aurangabad. I am a passionate coder and have experience in Algorithms, 
+  Data Structures, backend developement, web developement, flutter developement, etc. As a natural born go-getter, my passion has continuously driven 
+  me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in 
+  the creative ideas and successful solutions I bring to the table. Keep exploring my site to learn more information about me.
+
+  I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>Java</mark>, <mark>Python</mark>
+  , <mark>Flutter</mark>, <mark>Django</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
+
+  Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities 
+  to the real world scenarios and solve real world problems. 
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    - Adventure Sports
+    - Gaming
+    - Listning to music
+    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  **Skills**
+
+  <mark>C Programming</mark>, <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>, <mark>Shell</mark>, <mark>Git</mark>
+  , <mark>Flutter</mark>, <mark>Linux</mark>, <mark>Django</mark>
+
+  **Acheivements**
+  - 1000+ Programming questions solved on Online judges like HackerRank, LeetCode, CodeChef, CodeForces etc.
+  
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

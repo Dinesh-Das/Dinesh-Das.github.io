@@ -1,0 +1,24 @@
+# Project template
+- layout: left
+  name: Nutri-Tracker
+  github: /Dinesh-Das/Nutri-Tracker
+  quote: >
+    A nutrition tracking and assessment application
+  description: | # this will include new lines to allow paragraphs
+    - This tool helps users to find nutrition deficiencies.
+    - This tool uses assessment of the user which helps to determine the deficiencies and recommend the required nutritional food.
+    - Implemented using Flutter and its libraries like <mark>Firebase</mark> ,<mark>Dialogflow</mark> , 
+    <mark>Cloud Firestore</mark> , <mark>Dart</mark>.
+
+    ---
+- layout: left
+  name: Gift Gallery
+  #github: /Dinesh-Das/Nutri-Tracker
+  quote: >
+    A Gift store 
+  description: | # this will include new lines to allow paragraphs
+    - This project is used to provide a web platform to sell products to the customers.
+    - Users can check cart, browse through the Items on the store.
+    - Implemented using Html,Css,JavaScript and its libraries like <mark>Bootstrap</mark>.
+
+    ---

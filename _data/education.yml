@@ -1,0 +1,21 @@
+# Education Template
+- layout: left
+  name: Government College of Engineering 
+  dates: 2020- 2022 , 9.08 CGPA
+  qualification: Master of computer application
+  quote: >
+    Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. 
+  description: | # this will include new lines to allow paragraphs
+    - The course framework was quite broad and touched upon most of the things required for an overall developement as 
+    a computer science engineer.
+
+- layout: left
+  name: Babasaheb Ambedkar Marathwada University
+  dates: 2017- 2020 , 76.87%
+  quote: >
+    Colleges are places where pebbles are polished and diamonds are dimmed.
+  qualification: BSc Computer Science
+  description: | # this will include new lines to allow paragraphs
+    - During my stay at the college, I learnt tons of new things, related to both academics and co-curricular activities.
+    - Talking about the co-curricular activities, two of the most interesting things I learnt during my stay at the university are 
+      BasketBall and Photography.
