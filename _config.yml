@@ -10,7 +10,7 @@ phone: +91-9284425491
 # website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
@@ -81,7 +81,7 @@ more_content: | # this will include new lines to allow paragraphs
   , <mark>Flutter</mark>, <mark>Linux</mark>, <mark>Django</mark>
 
   **Acheivements**
-  - 1000+ Programming questions solved on Online judges like HackerRank, LeetCode, CodeChef, CodeForces etc.
+  - 1000+ Programming questions solved on Online judges like HackerRank, HackerEarth, GeeeksForGeeks, LeetCode, CodeChef, CodeForces etc.
   
 # Footer
 footer_show_references: false
