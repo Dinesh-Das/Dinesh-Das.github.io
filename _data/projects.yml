@@ -1,4 +1,4 @@
-# Project template
+# Project template 
 - layout: left
   name: Nutri-Tracker
   github: /Dinesh-Das/Nutri-Tracker
@@ -9,6 +9,17 @@
     - This tool uses assessment of the user which helps to determine the deficiencies and recommend the required nutritional food.
     - Implemented using Flutter and its libraries like <mark>Firebase</mark> ,<mark>Dialogflow</mark> , 
     <mark>Cloud Firestore</mark> , <mark>Dart</mark>.
+
+    ---
+- layout: left
+  name: Amplify Music Player
+  github: /Dinesh-Das/Amplify_OfflineMusicPlayer
+  quote: >
+    An offline music player
+  description: | # this will include new lines to allow paragraphs
+    - This application plays music available on the phone.
+    - Features like Search, Create Playlist, Add to Favourite, and Playlist customization are present.
+    - Implemented using Flutter and its libraries like <mark>Hive</mark>,<mark>Asset Audio Player</mark>, <mark>Shared Preferences</mark>, <mark>Dart</mark>.
 
     ---
 - layout: left
