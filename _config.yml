@@ -47,13 +47,12 @@ additional_links:
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  Hi, my name is Dinesh Das. I am a student at Government College Of Engineering Aurangabad. I am a passionate coder and have experience in Algorithms, 
-  Data Structures, backend developement, web developement, flutter developement, etc. As a natural born go-getter, my passion has continuously driven 
+  Hi, my name is Dinesh Das. I am a student at Government College Of Engineering Aurangabad. I am a passionate coder and have experience in backend developement, web developement, flutter developement, etc. As a natural born go-getter, my passion has continuously driven 
   me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in 
   the creative ideas and successful solutions I bring to the table. Keep exploring my site to learn more information about me.
 
   I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>Java</mark>, <mark>Python</mark>
-  , <mark>Flutter</mark>, <mark>Django</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
+  , <mark>Flutter</mark>, <mark>MySQL</mark>, <mark>git</mark>, etc.
 
   Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities 
   to the real world scenarios and solve real world problems. 
@@ -78,7 +77,7 @@ more_content: | # this will include new lines to allow paragraphs
   **Skills**
 
   <mark>C Programming</mark>, <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>, <mark>Shell</mark>, <mark>Git</mark>
-  , <mark>Flutter</mark>, <mark>Linux</mark>, <mark>Django</mark>
+  , <mark>Flutter</mark>, <mark>Linux</mark>
 
   **Acheivements**
   - 1000+ Programming questions solved on Online judges like HackerRank, GeeeksForGeeks, LeetCode, CodeChef, CodeForces etc.
